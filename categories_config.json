@@ -1,0 +1,330 @@
+{
+    "Login, registrasi & akses akun": {
+        "keywords": [
+            "login",
+            "masuk",
+            "password",
+            "sandi",
+            "username",
+            "registrasi",
+            "daftar",
+            "blokir",
+            "akun",
+            "fingerprint",
+            "gps",
+            "lupa password",
+            "luar negeri",
+            "otp",
+            "panggilan telepon",
+            "lokasi",
+            "pin",
+            "terblokir",
+            "panggilan",
+            "akses",
+            "tabungan dormant",
+            "reset pin",
+            "multi device",
+            "force close",
+            "salah password",
+            "kode otp",
+            "gagal daftar",
+            "tidak bisa digunakan",
+            "multi perangkat",
+            "gagal login",
+            "login gagal",
+            "buat akun",
+            "tidak bisa akses"
+        ],
+        "desc": [
+            "Kesulitan login atau masuk ke akun.",
+            "Username dan password tidak dapat digunakan.",
+            "Akun terblokir atau gagal registrasi.",
+            "Kesulitan login saat berganti perangkat."
+        ]
+    },
+    "Verifikasi wajah, KTP & biometrik": {
+        "keywords": [
+            "wajah",
+            "ktp",
+            "biometrik",
+            "sidik jari",
+            "muka",
+            "scan",
+            "verifikasi",
+            "verifikasi wajah",
+            "vermuk",
+            "pencahayaan",
+            "facial verification",
+            "wajah gelap"
+        ],
+        "desc": [
+            "Verifikasi wajah selalu gagal.",
+            "Foto wajah atau KTP tidak terbaca.",
+            "Kendala biometrik ketika login atau registrasi.",
+            "Verifikasi gagal meskipun jaringan dan pencahayaan baik."
+        ]
+    },
+    "Server, maintenance & gangguan aplikasi": {
+        "keywords": [
+            "gangguan",
+            "server",
+            "maintenance",
+            "error",
+            "down",
+            "sistem",
+            "perbaikan",
+            "buka",
+            "atm kosong",
+            "trouble",
+            "atm offline",
+            "gagal transaksi",
+            "jam sibuk",
+            "eror",
+            "notifikasi",
+            "transaksi gagal",
+            "tidak bisa digunakan",
+            "eror malam",
+            "macet total",
+            "tidak bisa diakses",
+            "keluar sendiri",
+            "darurat",
+            "lost",
+            "trobel",
+            "gangguan malam",
+            "pemeliharaan",
+            "offline tengah malam"
+        ],
+        "desc": [
+            "Server mengalami gangguan atau down.",
+            "Aplikasi tidak dapat dibuka.",
+            "Maintenance terlalu sering.",
+            "Gangguan aplikasi ketika nasabah membutuhkan transaksi."
+        ]
+    },
+    "Update, instalasi & kompatibilitas": {
+        "keywords": [
+            "update",
+            "perbarui",
+            "instal",
+            "force close",
+            "keluar sendiri",
+            "buka tutup",
+            "kompatibel",
+            "crash",
+            "aplikasi baru",
+            "kompatibilitas",
+            "upgrade",
+            "memori",
+            "storage",
+            "ukuran aplikasi",
+            "tidak bisa dibuka",
+            "sering update",
+            "tidak kompatibel",
+            "ukuran besar",
+            "memori besar",
+            "update aplikasi"
+        ],
+        "desc": [
+            "Aplikasi bermasalah setelah update.",
+            "Aplikasi gagal diinstal atau diunduh.",
+            "Aplikasi tidak kompatibel dengan perangkat.",
+            "Aplikasi keluar sendiri setelah dibuka."
+        ]
+    },
+    "Biaya admin & fitur aplikasi": {
+        "keywords": [
+            "biaya",
+            "admin",
+            "iklan",
+            "fitur",
+            "potongan",
+            "ribet",
+            "potong saldo",
+            "biaya admin",
+            "mutasi",
+            "kredit",
+            "kartu kredit",
+            "ui",
+            "briguna",
+            "investasi emas",
+            "potongan saldo",
+            "saldo mengendap",
+            "tabungan emas",
+            "promo",
+            "pajak",
+            "biaya kartu",
+            "saldo minimum",
+            "bri poin",
+            "dark mode",
+            "fee admin",
+            "bahasa jepang",
+            "pajak shopeepay",
+            "potongan biaya",
+            "minimum balance",
+            "agf"
+        ],
+        "desc": [
+            "Keberatan terhadap biaya administrasi.",
+            "Fitur aplikasi dianggap menyulitkan.",
+            "Iklan mengganggu penggunaan.",
+            "Keterbatasan fitur tertentu."
+        ]
+    },
+    "Transaksi pending, saldo terpotong & refund": {
+        "keywords": [
+            "pending",
+            "terpotong",
+            "potong",
+            "refund",
+            "kembali",
+            "nyangkut",
+            "dobel",
+            "ganda",
+            "berkurang",
+            "qris",
+            "saldo terpotong",
+            "saldo hilang",
+            "saldo lenyap",
+            "saldo tertahan",
+            "saldo berkurang",
+            "bukti transaksi",
+            "saldo mengendap",
+            "saldo raib",
+            "berproses",
+            "briva",
+            "belum berhasil",
+            "gagal transaksi",
+            "saldo tidak cukup",
+            "transaksi",
+            "penipuan",
+            "tarik tunai gagal"
+        ],
+        "desc": [
+            "Saldo terpotong tetapi transaksi belum berhasil.",
+            "Dana belum dikembalikan.",
+            "Transaksi masih berstatus diproses.",
+            "Transaksi ganda atau saldo berkurang."
+        ]
+    },
+    "Transfer & BI-FAST": {
+        "keywords": [
+            "transfer",
+            "tf",
+            "bi-fast",
+            "bifast",
+            "rekening",
+            "kirim",
+            "tujuan",
+            "internasional",
+            "pengiriman"
+        ],
+        "desc": [
+            "Transfer gagal atau tidak tersedia.",
+            "BI-FAST mengalami gangguan.",
+            "Dana belum diterima rekening tujuan.",
+            "Transfer membutuhkan waktu lama."
+        ]
+    },
+    "Top up, pembelian & tagihan": {
+        "keywords": [
+            "top up",
+            "topup",
+            "pulsa",
+            "kuota",
+            "data",
+            "listrik",
+            "token",
+            "tagihan",
+            "beli",
+            "dana",
+            "gopay",
+            "ovo",
+            "shopeepay",
+            "pembayaran",
+            "qris",
+            "bayar pajak",
+            "setor tunai",
+            "investasi emas",
+            "cicil emas",
+            "tarik tunai",
+            "bpjs",
+            "qr code",
+            "tarik emas"
+        ],
+        "desc": [
+            "Top up e-wallet gagal.",
+            "Pembelian pulsa atau paket data bermasalah.",
+            "Pembayaran listrik dan tagihan gagal.",
+            "Saldo terpotong tetapi produk belum diterima."
+        ]
+    },
+    "Performa aplikasi: lambat, lag & loading": {
+        "keywords": [
+            "lambat",
+            "lelet",
+            "lag",
+            "loading",
+            "loding",
+            "lemot",
+            "berat",
+            "notifikasi delay",
+            "jaringan",
+            "bug",
+            "crashing",
+            "crash",
+            "ketik huruf",
+            "freeze",
+            "lemod",
+            "cacat",
+            "bug ketik",
+            "tidak bisa klik"
+        ],
+        "desc": [
+            "Aplikasi lambat dibuka.",
+            "Loading terlalu lama.",
+            "Aplikasi mengalami lag saat transaksi.",
+            "Respons aplikasi tidak optimal."
+        ]
+    },
+    "Customer service & penanganan pengaduan": {
+        "keywords": [
+            "cs ",
+            "customer service",
+            "keluhan",
+            "pengaduan",
+            "whatsapp",
+            "wa ",
+            "live chat",
+            "bot",
+            "solusi",
+            "call center",
+            "pelayanan",
+            "cs",
+            "penipuan",
+            "aduan",
+            "ganti hp",
+            "keamanan",
+            "telepon palsu",
+            "telepon cs",
+            "pelayanan buruk",
+            "keluhan umum",
+            "telepon spam"
+        ],
+        "desc": [
+            "Respons CS lambat.",
+            "Pengaduan tidak mendapatkan solusi.",
+            "Live chat atau WhatsApp tidak membantu.",
+            "Penanganan keluhan terlalu lama."
+        ]
+    },
+    "Keamanan akun & privasi": {
+        "keywords": [
+            "keamanan",
+            "multi perangkat",
+            "saldo hilang"
+        ],
+        "desc": [
+            "\u2728 Kategori baru dipelajari oleh AI."
+        ]
+    }
+}
