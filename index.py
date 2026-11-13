@@ -148,7 +148,7 @@ raw_df = st.session_state.raw_df
 st.sidebar.markdown("<h2 style='color: #0369A1;'>🔍 Filter Data</h2>", unsafe_allow_html=True)
 min_data_date = raw_df['Date'].min().date()
 max_data_date = raw_df['Date'].max().date()
-target_start = date(max_data_date.year, 10, 11)
+target_start = date(max_data_date.year, 10, 1)
 default_start = max(min_data_date, min(target_start, max_data_date))
 
 selected_dates = st.sidebar.date_input(
